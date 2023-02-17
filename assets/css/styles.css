@@ -195,6 +195,10 @@ img{
 }
 
 @media screen and (max-width: 767px) {
+    .nav{
+        max-width: 100%;
+        
+    }
     .nav__menu{
         position: fixed;
         bottom: -100%;
